@@ -50,8 +50,8 @@ public class Main{
 	public static void main(String[] args){
 
 		// all quizzes and assignments
-		double[] quizzes = {90.0, 100.0, 100.0, 90.0, 100.0, 80.0, 80.0};
-		double[] assignments = {84.0, 59.0, 95.0, 95.0, 92.25, 86.0, 100.0};
+		double[] quizzes = {};
+		double[] assignments = {};
 
 		bestOption(quizzes, assignments);
 
