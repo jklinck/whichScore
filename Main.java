@@ -50,6 +50,7 @@ public class Main{
 	public static void main(String[] args){
 
 		// all quizzes and assignments
+		// you will need to enter your quiz and assignment scores
 		double[] quizzes = {};
 		double[] assignments = {};
 
